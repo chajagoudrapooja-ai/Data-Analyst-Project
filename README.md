@@ -38,7 +38,7 @@ An interactive Tableau dashboard was created to give business users clear and ac
 
 > Return Rate: 5.91%
 
-> Category Contribution:
+## Category Contribution:
 
 > Technology – 36.40%
 
@@ -46,7 +46,7 @@ An interactive Tableau dashboard was created to give business users clear and ac
 
 > Office Supplies – 31.30%
 
-> Customer Segment Share:
+## Customer Segment Share:
 
 > Consumer – 50.56%
 

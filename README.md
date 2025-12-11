@@ -150,3 +150,4 @@ Created tooltips for detailed insights
 The Tableau dashboard provides a complete 360° view of Superstore’s performance.
 It enables businesses to make data-driven decisions related to inventory planning, customer targeting, and sales strategy.
 Interactive filters and drill-down features help users explore insights quickly and effectively.
+- Dashboard Interaction <a href="https://github.com/chajagoudrapooja-ai/Data-Analyst-Project/blob/main/Screenshot%202025-11-29%20152151.png"> View Dashboard</a>
